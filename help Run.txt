@@ -1,0 +1,4 @@
+1- Baraie ejra kafi ast main.py ra ejra konin
+
+2- dar khode main.py man classhaie jacobi o gausssidel o successive ro seda kardam
+
